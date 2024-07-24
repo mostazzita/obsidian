@@ -5,3 +5,4 @@ Tags: [[Ciencia de la información]] [[Gestión del conocimiento]]
 # La gestión del conocimiento es un concepto interdisciplinario
 
 ## Referencias
+[[Wikipedia - Ciencia de la información]]
